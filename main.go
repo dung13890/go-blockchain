@@ -10,4 +10,5 @@ type CLI struct{}
 func main() {
 	fmt.Println("Hello!")
 	fmt.Println("String!")
+	fmt.Println("Block chain!")
 }
