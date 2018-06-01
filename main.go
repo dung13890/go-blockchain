@@ -1,7 +1,6 @@
 package main
 
 import (
-	"flag"
 	"fmt"
 )
 
@@ -11,4 +10,5 @@ func main() {
 	fmt.Println("Hello!")
 	fmt.Println("String!")
 	fmt.Println("Block chain!")
+	fmt.Println("decrypt chain!")
 }
