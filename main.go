@@ -9,8 +9,6 @@ import (
 type CLI struct{}
 
 func main() {
-	// fmt.Println("Hello!")
-	// fmt.Println("String!")
 	sendToSlack("test bao thuc")
 }
 
