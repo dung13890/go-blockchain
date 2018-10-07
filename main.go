@@ -9,7 +9,7 @@ import (
 type CLI struct{}
 
 func main() {
-	sendToSlack("test notification!")
+	sendToSlack("Test Notification!")
 }
 
 func sendToSlack(content string) (err error) {
