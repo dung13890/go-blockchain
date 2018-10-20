@@ -11,4 +11,5 @@ Block chain by golang
 $ cd project
 $ docker-compose up -d
 $ docker-compose exec api bash
+$ go run main.go
 ```
